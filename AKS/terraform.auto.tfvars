@@ -1,7 +1,7 @@
 aks_config = {
 	client_id = ""
 	client_secret = ""
-	cluster_name = "farrukh" 
+	cluster_name = "nurlan" 
 	
 	adgroup_name = "AKS-cluster-admins"
 	address_space = "10.1.0.0/16"
